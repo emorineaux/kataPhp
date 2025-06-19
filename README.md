@@ -133,24 +133,11 @@ Ajouter un fichier `.github/workflows/ci.yml` pour :
 
 ## 📘 Consignes techniques
 
-- Utilise Composer et PSR-4
-- Structure claire : MVC ou équivalent
-- README avec instructions d’installation
-- Base de données au choix : SQLite, JSON, MySQL, etc.
-- Bonus si Docker est utilisé
+- Structure claire
+- README complet
 
 ---
 
 ## ❌ Usage d'outils automatiques
 
 > ⚠️ **L’usage d’outils de génération automatique de code (ChatGPT, Copilot, etc.) est strictement interdit.**  
-> Ce test est conçu pour évaluer ta capacité personnelle de raisonnement. Tu devras expliquer ton code lors de l'entretien.
-
----
-
-## 🚀 Livrables
-
-- Repo GitHub avec tout le code
-- README complet
-- Tests exécutables
-- CI active
