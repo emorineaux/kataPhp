@@ -1,7 +1,7 @@
 
 # 📅 Event Planning System — Exercice Technique PHP
 
-Bienvenue dans cet exercice PHP. L'objectif est de construire une API RESTful autour de la gestion d'événements, avec des règles métiers, des statistiques, et des défis techniques progressifs.
+Bienvenue dans cet exercice PHP. L'objectif est de construire une API RESTful autour de la gestion d'événements, avec des règles métiers, des statistiques.
 
 ---
 
